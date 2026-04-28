@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "okay who bee",
   "author": "du",
-  "model": "./okay_who_bee.tflite",
+  "model": "okay_who_bee.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
