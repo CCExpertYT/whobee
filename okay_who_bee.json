@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "okay who bee",
   "author": "du",
-  "model": "./okay_who_bee.tflite",
+  "model": "okay_who_bee.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
